@@ -17,6 +17,7 @@ function counter(state = 0, action) {
 		default:
 			return state;
 	}
+	
 }
 // Create a Redux store holding the state of your app.
 // Its API is { dispatch, getState }.
