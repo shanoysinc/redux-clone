@@ -34,4 +34,5 @@ store.dispatch({ type: "DECREMENT" });
 
 // getState returns the current state of your application
 store.getState()
+// 1
 ```
